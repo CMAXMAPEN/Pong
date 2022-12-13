@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7c15b29b2192b144f89b3aca5a93b5a2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ball: {fileID: 9027943580243477690, guid: 3c70e64384a362f4cbfd5d157c4ca38a, type: 3}
+  - player1Paddle: {instanceID: 0}
+  - player1Goal: {instanceID: 0}
+  - player2Paddle: {instanceID: 0}
+  - player2Goal: {instanceID: 0}
+  - Player1Text: {instanceID: 0}
+  - Player2Text: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
